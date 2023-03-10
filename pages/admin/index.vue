@@ -8,6 +8,7 @@
 </template>
 <script>
 import PostList from '../../components/post/PostList.vue';
+// import PostList from '../../components/post/PostList.vue';
 export default {
   layout:"admin",
   components:{
